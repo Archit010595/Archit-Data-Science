@@ -1,2 +1,2 @@
-# Archit-Data-Science
+# IBM Data Science project
 Data Science projects
